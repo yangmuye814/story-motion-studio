@@ -1,0 +1,19 @@
+{
+  "id": "gemini-light-v1",
+  "name": "蓝紫柔光",
+  "status": "user-approved-look",
+  "approval": "2026-11-04 user selected the two earlier polished A/B samples over later redesigns",
+  "scope": "Look approval only; not technical claim endorsement or arbitrary future film approval",
+  "colors": {
+    "background": "#f8faff",
+    "ink": "#20334c",
+    "muted": "#526681",
+    "primary": "#3974cb",
+    "state": "#2979ad",
+    "text": "#7951b0",
+    "action": "#a34e7f"
+  },
+  "reference": "examples/gemini-light-v1/index.html",
+  "implementation": "Optional scoped CSS visual layer for the existing HyperFrames project, not a new init option",
+  "audio": "No reference audio included"
+}

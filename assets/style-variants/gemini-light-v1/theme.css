@@ -1,0 +1,8 @@
+/* Apply class bright-stage to the composition root; assets remain local */
+.bright-stage{--background:#f8faff;--ink:#20334c;--muted:#526681;--primary:#3974cb;--state:#2979ad;--text:#7951b0;--action:#a34e7f;color:var(--ink);background:var(--background) url("background.png") center/cover no-repeat}
+.bright-stage .claim,.bright-stage h1{color:var(--ink)}
+.bright-stage .muted,.bright-stage .note{color:var(--muted)}
+.bright-stage .state{color:var(--state)}.bright-stage .text{color:var(--text)}.bright-stage .action{color:var(--action)}
+.bright-stage .panel{background:rgba(255,255,255,.7);border:1px solid color-mix(in srgb,var(--primary) 25%,white);border-radius:10px}
+.bright-stage svg text{fill:var(--ink)}.bright-stage svg .state{fill:var(--state)}.bright-stage svg .text{fill:var(--text)}.bright-stage svg .action{fill:var(--action)}
+.bright-stage svg .panel{fill:var(--background);stroke:var(--primary);stroke-opacity:.25}

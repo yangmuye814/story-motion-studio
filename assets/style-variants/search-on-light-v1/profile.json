@@ -1,0 +1,19 @@
+{
+  "id": "search-on-light-v1",
+  "name": "蓝绿网格",
+  "status": "user-approved-look",
+  "approval": "2026-11-04 user selected the two earlier polished A/B samples over later redesigns",
+  "scope": "Look approval only; not technical claim endorsement or arbitrary future film approval",
+  "colors": {
+    "background": "#ffffff",
+    "ink": "#202124",
+    "muted": "#596579",
+    "primary": "#1967d2",
+    "state": "#137333",
+    "text": "#8430a3",
+    "action": "#a95d00"
+  },
+  "reference": "examples/search-on-light-v1/index.html",
+  "implementation": "Optional scoped CSS visual layer for the existing HyperFrames project, not a new init option",
+  "audio": "No reference audio included"
+}
